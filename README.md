@@ -1,5 +1,7 @@
 # Python FastAPI on Render
 
+YT video: https://www.youtube.com/watch?v=tLd5GsixfU4
+
 A sample Python REST API built with FastAPI and SQLAlchemy, ready to deploy on Render.
 
 ## What's Included
